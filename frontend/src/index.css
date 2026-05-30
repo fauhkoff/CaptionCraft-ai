@@ -1,0 +1,13 @@
+/* Reset index.css to be minimal as App.css handles most styles */
+:root {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
