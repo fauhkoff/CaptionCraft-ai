@@ -46,7 +46,7 @@ npm install
 Create a `.env` file in the `backend/` directory:
 ```env
 PORT=3001
-AI_API_KEY=your_key_here
+AI_API_KEY=ee46db743077057463e73de3068881f9
 AI_ENDPOINT=https://api.openai.com/v1/chat/completions
 AI_MODEL=gpt-3.5-turbo
 ```
